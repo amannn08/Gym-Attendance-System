@@ -20,5 +20,5 @@ Tracking gym attendance manually is time-consuming and prone to errors. This sys
 *Figure 1: Main interface of the Gym Attendance System.*
 
 ### Attendance Registered
-![Attendance Registered](path_to_screenshot2.png)  
+![Attendance Registered](Screenshot 2024-09-12 174542.png)  
 *Figure 2: Success message after registering attendance.*
