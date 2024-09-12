@@ -16,7 +16,7 @@ Tracking gym attendance manually is time-consuming and prone to errors. This sys
 ## Screenshots
 
 ### Main Interface
-![Main Screen](path_to_screenshot1.png)  
+![Main Screen](Screenshot%202024-09-12%20180355.png) 
 *Figure 1: Main interface of the Gym Attendance System.*
 
 ### Attendance Registered
